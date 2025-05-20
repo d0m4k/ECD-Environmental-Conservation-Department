@@ -1,0 +1,136 @@
+@media screen and (max-width: 480px) {
+
+    header .logo {
+        /* display: none; */
+        background-color: var(--neutral-light);
+        border-bottom: 1px solid var(--secondary-color);
+    }
+
+    header img {
+        display: none;
+    }
+
+    header .logo .title {
+        margin-top: 20px;
+        color: var(--font-color-primary);
+        font-size: var(--font-size-sm);
+    }
+
+    /* header */
+
+    nav {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: var(--neutral-light);
+    }
+
+    nav #menu-btn {
+        display: block;
+        margin: 15px;
+        font-size: var(--font-size-md);
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    nav #close-menu-btn {
+        margin: 10px;
+        font-size: var(--font-size-md);
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    nav ul {
+        display: none;
+        flex-direction: column;
+    }
+
+    nav ul li {
+        display: block;
+    }
+
+    nav ul li a {
+        display: block;
+        margin: 0;
+        background-color: var(--neutral-light);
+        border-radius: 0;
+    }
+
+    nav ul li a:hover {
+        transition: 0.3s ease-in;
+        background-color: var(--accent-color);
+        color: var(--neutral-light);
+    }
+
+    /* nav */
+    main {
+        width: 100%; 
+        margin-top: 20px;
+        box-sizing: border-box;
+    }
+
+    /* main */
+
+    #home {
+        padding: 0;
+    }
+
+    #home .department_building {
+        height: 300px;
+        width: 90%;
+    }
+
+    #home .container {
+        flex-direction: column;
+    }
+
+    #home .container .news {
+        width: 100%;
+    }
+
+    #home .news-item .title a{
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+    }
+    #home .news-item .extra{
+        margin-top: 10px;
+    }
+
+    #home .home-content{
+        width: 100%;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .home-content form{
+        width: fit-content;
+        margin-bottom: 20px auto;
+        /* margin: auto; */
+    }
+
+    #home .extra-info{
+        margin-top: 20px;
+        flex-direction: column;
+    }
+
+    #home .extra-info div {
+        width: 80% !important;
+        margin: auto;
+    }
+    /* home */
+
+    #about{
+        width: 90%;
+        margin: auto;
+    }
+    /* about */
+
+    #media .item{
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+    /* media */
+}

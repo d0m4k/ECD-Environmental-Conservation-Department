@@ -1,0 +1,25 @@
+:root {
+    /* Brand Colors - Dark Mode */
+    --primary-color: #81c784;       /* Soft Green */
+    --secondary-color: #4caf50;     /* Medium Green */
+    --accent-color: #bcaaa4;        /* Muted Brown */
+    --background-color: #121212;    /* Deep Charcoal */
+    --surface-color: #1e1e1e;       /* Slightly lighter dark for surfaces */
+    --border-color: #2e2e2e;
+  
+    /* Font Colors */
+    --font-color-primary: #e8f5e9;  /* Light Greenish White */
+    --font-color-secondary: #cfd8dc; /* Muted Gray Text */
+    --font-color-accent: #ffccbc;  /* Soft peachy highlight */
+  
+    /* Font Sizes */
+    --font-size-base: 16px;
+    --font-size-sm: 14px;
+    --font-size-md: 18px;
+    --font-size-lg: 24px;
+    --font-size-xl: 32px;
+  
+    /* Font Family */
+    --font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  }
+  

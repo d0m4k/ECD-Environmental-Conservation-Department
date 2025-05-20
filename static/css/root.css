@@ -1,0 +1,34 @@
+:root {
+    /* Brand Colors */
+    --primary-color: #2e7d32;
+    /* Deep Green */
+    --secondary-color: #a5d6a7;
+    /* Light Green */
+    --accent-color: #8d6e63;
+    /* Earthy Brown */
+    --neutral-light: #f1f8e9;
+    /* Very Light Green */
+    --neutral-dark: #263238;
+    /* Dark Gray/Blue-Green */
+
+    /* Font Colors */
+    --font-color-primary: #1b5e20;
+    /* Dark Green for main text */
+    --font-color-secondary: #4e342e;
+    /* Brown-gray for subtext */
+    --font-color-light: #ffffff;
+    /* White for dark backgrounds */
+    --text-color: #f1f1f1;
+    --muted-color: #b0b0b0;
+    --border-color: #3a3a50;
+
+    /* Font Sizes */
+    --font-size-base: 16px;
+    --font-size-sm: 14px;
+    --font-size-md: 18px;
+    --font-size-lg: 24px;
+    --font-size-xl: 32px;
+
+    /* Font Family */
+    --font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+}
