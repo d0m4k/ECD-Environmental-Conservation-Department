@@ -7,6 +7,8 @@ if (isset($_GET["n"])) {
     <style>
         #media {
             width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
         }
 
         #media .item {
