@@ -8,6 +8,7 @@ require_once __DIR__ . '/functions.php';
 $views = [
     "/" => '/views/home/index.php',
     "/about" => '/views/about/index.php',
+    "/daily-activities" => "/views/daily_activities/index.php",
     "/media" => '/views/media/index.php',
 ];
 

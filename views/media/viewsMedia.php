@@ -9,4 +9,11 @@
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit nam quidem beatae architecto quasi
         incidunt ut eius sequi facilis accusamus, temporibus aperiam, sint debitis, velit cumque delectus ipsum eveniet
         porro.</p>
+    <div class="images">
+        <img src="../../static/images/Logo_of_Ministry_of_Natural_Resources_and_Environmental_Conservation_(Myanmar).png" alt="" srcset="">
+        <img src="../../static/images/Logo_of_Ministry_of_Natural_Resources_and_Environmental_Conservation_(Myanmar).png" alt="" srcset="">
+        <img src="../../static/images/Logo_of_Ministry_of_Natural_Resources_and_Environmental_Conservation_(Myanmar).png" alt="" srcset="">
+        <img src="../../static/images/Logo_of_Ministry_of_Natural_Resources_and_Environmental_Conservation_(Myanmar).png" alt="" srcset="">
+        <img src="../../static/images/Logo_of_Ministry_of_Natural_Resources_and_Environmental_Conservation_(Myanmar).png" alt="" srcset="">
+    </div>
 </div>
